@@ -1,0 +1,12 @@
+	{
+		"name": "Chateau",
+		"replaces": "Castle",
+		"uniqueTo": "France",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Happiness] from [Luxury resource] tiles [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
