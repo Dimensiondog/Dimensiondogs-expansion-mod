@@ -1,3 +1,4 @@
+[
 	{
 		"name": "Chateau",
 		"replaces": "Castle",
@@ -9,4 +10,5 @@
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Happiness] from [Luxury resource] tiles [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
-	},
+	}
+]
