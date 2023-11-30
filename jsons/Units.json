@@ -1,3 +1,4 @@
+[
 	{
 		"name": "Foreign Legion",
 		"unitType": "Gunpowder",
@@ -9,4 +10,5 @@
 		"obsoleteTech": "Plastics",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
-	},
+	}
+]
