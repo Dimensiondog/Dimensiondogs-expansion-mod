@@ -1,0 +1,39 @@
+[
+      {
+        "name": "Pilgrimage",
+        "type": "Enhancer",
+        "uniques": ["[+2 Faith, +1 Gold] for each global city following this religion"]
+    },
+        {
+        "name": "Synod",
+        "type": "Founder",
+        "uniques": ["Gain a free [Pantheon] belief<upon entering the [Medieval era]>",
+        "Gain a free [Founder] belief<upon entering the [Renaissance era]>",
+        "Gain a free [Follower] belief<upon entering the [Modern era]>",
+        "Gain a free [Enhancer] belief<upon entering the [Information era]>"]
+    },
+        {
+        "name": "Icononclasm",
+        "type": "Follower",
+        "uniques": ["[+1 Faith] from all [Culture] buildings"]
+    },
+          {
+        "name": "Jesuits",
+        "type": "Enhancer",
+        "uniques": ["May buy [Library] buildings for [150] [Faith] [in all cities]",
+        "May buy [University] buildings for [200] [Faith] [in all cities]",
+        "May buy [Public School] buildings for [300] [Faith] [in all cities]"]
+    },
+            {
+        "name": "Work Ethic",
+        "type": "Enhancer",
+        "uniques": ["May buy [Workshop] buildings for [200] [Faith] [in all cities]",
+        "May buy [Factory] buildings for [400] [Faith] [in all cities]",
+        "May buy [Windmill] buildings for [300] [Faith] [in all cities]"]
+    },
+            {
+        "name": "Missions",
+        "type": "Founder",
+        "uniques": ["[+50]% Spread Religion Strength<for [Missionary]><on foreign continents>"]
+    },
+]
